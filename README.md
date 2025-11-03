@@ -4,3 +4,4 @@ This repository will document and show my path to creating my own LLM as advance
 ## libraries and versions to use
 * python v3.11
 * uv venv
+
